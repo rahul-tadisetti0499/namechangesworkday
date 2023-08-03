@@ -14,21 +14,21 @@
         <license_model>none</license_model>
         <logo>a5fd19ddc3936510e5724ad9d001318a</logo>
         <menu/>
-        <name>Workday Approval Mobile</name>
+        <name>Now Mobile Integration with Workday</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_snc_wrkd_apr_mbl</scope>
+        <scope>sn_me_workday</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Workday Approval Mobile</short_description>
-        <source>x_snc_wrkd_apr_mbl</source>
+        <short_description>Now Mobile Integration with Workday</short_description>
+        <source>sn_me_workday</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-07 05:32:18</sys_created_on>
-        <sys_id>64fdd1ddc3936510e5724ad9d00131e7</sys_id>
+        <sys_id>4f2f95cc77b72110cd1b756f1b5a9905</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-06-07 05:32:23</sys_updated_on>
@@ -40,7 +40,7 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
-    <sys_translated_text action="delete_multiple" query="documentkey=64fdd1ddc3936510e5724ad9d00131e7"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=4f2f95cc77b72110cd1b756f1b5a9905"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color/>
         <chunk_size_bytes>700000</chunk_size_bytes>
@@ -60,7 +60,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-06-07 05:32:22</sys_updated_on>
         <table_name>sys_app</table_name>
-        <table_sys_id>64fdd1ddc3936510e5724ad9d00131e7</table_sys_id>
+        <table_sys_id>4f2f95cc77b72110cd1b756f1b5a9905</table_sys_id>
     </sys_attachment>
     <sys_attachment_doc action="INSERT_OR_UPDATE">
         <data>H4sIAAAAAAAAAA==</data>
