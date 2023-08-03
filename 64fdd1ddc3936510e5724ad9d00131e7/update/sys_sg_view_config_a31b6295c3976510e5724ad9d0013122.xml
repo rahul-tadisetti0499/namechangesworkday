@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>Job Change config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 11:09:28</sys_created_on>
+        <sys_id>a31b6295c3976510e5724ad9d0013122</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Job Change config</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_config_a31b6295c3976510e5724ad9d0013122</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:47:36</sys_updated_on>
+        <table>sn_me_workday_job_change_approval_db_view</table>
+        <template display_value="">eca07458c38cb150fc27e92bb001317e</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=a31b6295c3976510e5724ad9d0013122"/>
+</record_update>

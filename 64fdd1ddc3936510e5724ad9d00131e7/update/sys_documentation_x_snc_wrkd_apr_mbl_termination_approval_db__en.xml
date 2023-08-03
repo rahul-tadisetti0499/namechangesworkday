@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Termination Approval DB" language="en" table="sn_me_workday_termination_approval_db_view">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Termination Approval DB</label>
+            <language>en</language>
+            <name>sn_me_workday_termination_approval_db_view</name>
+            <plural>Termination Approval DBs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-22 04:00:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Termination Approval DB</sys_name>
+            <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+            <sys_update_name>sys_documentation_sn_me_workday_termination_approval_db_view__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-22 04:00:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

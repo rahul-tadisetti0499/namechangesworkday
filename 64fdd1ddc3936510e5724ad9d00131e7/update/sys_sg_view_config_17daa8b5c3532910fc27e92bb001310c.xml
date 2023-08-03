@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description>Time off approval record screen card</description>
+        <name>Time off approval record screen card</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 15:07:45</sys_created_on>
+        <sys_id>17daa8b5c3532910fc27e92bb001310c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Time off approval record screen card</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_config_17daa8b5c3532910fc27e92bb001310c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 10:57:54</sys_updated_on>
+        <table>sn_me_workday_time_off_approval_db_view</table>
+        <template display_value="Workday Approval Card Template">dde9c9ddc3803550e5724ad9d0013125</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=17daa8b5c3532910fc27e92bb001310c"/>
+</record_update>

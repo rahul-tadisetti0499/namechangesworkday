@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>Joins the multiple tables for job requisition approval use case.</description>
+        <label>Job requisition approval DB</label>
+        <name>sn_me_workday_job_requisition_approval_db_view</name>
+        <plural/>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 05:16:46</sys_created_on>
+        <sys_id>4c0750a9c3efa510fc27e92bb00131cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_me_workday_job_requisition_approval_db_view</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_db_view_4c0750a9c3efa510fc27e92bb00131cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 11:55:45</sys_updated_on>
+    </sys_db_view>
+</record_update>

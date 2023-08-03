@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time off correction comment function">fe2e263dc3e32910fc27e92bb00131ee</button>
+        <button_table>sn_me_workday_time_off_correction_approval_db_view</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Comment UI parameter">48936c0fc3dfa110fc27e92bb001312d</destination_ui_parameter>
+        <source_field>wc_workday_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 10:59:19</sys_created_on>
+        <sys_id>a9de6e3dc3e32910fc27e92bb00131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48936c0fc3dfa110fc27e92bb001312d</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 10:59:19</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

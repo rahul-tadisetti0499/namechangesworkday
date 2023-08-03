@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="">372e1c25c327a510e5724ad9d001317f</data_item>
+        <interleaved_field/>
+        <name>Spend Auth list stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 05:47:55</sys_created_on>
+        <sys_id>403e1c25c327a510e5724ad9d0013182</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Spend Auth list stream</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_item_stream_403e1c25c327a510e5724ad9d0013182</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 05:47:55</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

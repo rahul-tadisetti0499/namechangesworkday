@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>sysId</name>
+        <parent>739c9a4dc35cb190fc27e92bb001314c</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 08:30:44</sys_created_on>
+        <sys_id>4cbc1a0dc35cb190fc27e92bb001310e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysId</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_4cbc1a0dc35cb190fc27e92bb001310e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 08:30:44</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

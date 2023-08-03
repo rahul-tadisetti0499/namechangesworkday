@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>Joins the multiple tables for time off approval use case.</description>
+        <label>Time off approval DB</label>
+        <name>sn_me_workday_time_off_approval_db_view</name>
+        <plural/>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 10:29:15</sys_created_on>
+        <sys_id>9a4b9651c35fa510fc27e92bb001319f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_me_workday_time_off_approval_db_view</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_db_view_9a4b9651c35fa510fc27e92bb001319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 07:33:10</sys_updated_on>
+    </sys_db_view>
+</record_update>
